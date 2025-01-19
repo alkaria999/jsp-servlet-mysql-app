@@ -64,3 +64,8 @@ INSERT INTO employees(name, age, gender, department, yearOfJoining, salary) valu
 
 Screenshot : 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/a7492aea-a84d-42d9-9226-7858b50322aa" />
+
+
+If any issue occurs, do the following changes and issue will be fixed.
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/edce86a3-de3b-4d5e-aa46-786e0fd37f9d" />
+
